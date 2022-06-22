@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bcosca/fatfree": "^3.8",
+        "gregwar/image": "^2.1"
+    }
+}
